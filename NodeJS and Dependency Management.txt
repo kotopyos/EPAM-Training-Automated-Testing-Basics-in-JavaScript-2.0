@@ -1,0 +1,4 @@
+1. - 
+2. "npm itit" -> answer the questions 
+3. npm install -g fs-extra 
+4. npm install -g --save-dev fs-extra
